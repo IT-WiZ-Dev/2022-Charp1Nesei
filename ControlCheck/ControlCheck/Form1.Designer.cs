@@ -124,7 +124,7 @@ namespace ControlCheck
             // labelNumericUpDown
             // 
             this.labelNumericUpDown.AutoSize = true;
-            this.labelNumericUpDown.Location = new System.Drawing.Point(289, 277);
+            this.labelNumericUpDown.Location = new System.Drawing.Point(280, 277);
             this.labelNumericUpDown.Name = "labelNumericUpDown";
             this.labelNumericUpDown.Size = new System.Drawing.Size(67, 24);
             this.labelNumericUpDown.TabIndex = 6;
@@ -134,7 +134,7 @@ namespace ControlCheck
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(13F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(652, 334);
+            this.ClientSize = new System.Drawing.Size(800, 477);
             this.Controls.Add(this.labelNumericUpDown);
             this.Controls.Add(this.labelRadioButton1);
             this.Controls.Add(this.labelRadioButton2);
