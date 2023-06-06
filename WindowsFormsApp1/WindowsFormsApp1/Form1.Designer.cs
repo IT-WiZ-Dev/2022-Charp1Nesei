@@ -71,7 +71,7 @@ namespace WindowsFormsApp1
             this.textBoxName.Name = "textBoxName";
             this.textBoxName.Size = new System.Drawing.Size(100, 25);
             this.textBoxName.TabIndex = 4;
-            this.textBoxName.TextChanged += new System.EventHandler(this.小林健人);
+            this.textBoxName.TextChanged += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
