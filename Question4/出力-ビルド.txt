@@ -1,0 +1,4 @@
+﻿ビルドを開始しました...
+1>------ ビルド開始: プロジェクト: Question4, 構成: Debug Any CPU ------
+1>  Question4 -> C:\Users\hsout\Downloads\2023CSharp1NenZenkiKimatu-main\2023CSharp1NenZenkiKimatu-main\Question4\Question4\bin\Debug\Question4.exe
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
