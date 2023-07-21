@@ -1,0 +1,4 @@
+﻿ビルドを開始しました...
+1>------ ビルド開始: プロジェクト: WeekOfDay2, 構成: Debug Any CPU ------
+1>  WeekOfDay2 -> C:\Users\hsout\source\repos\WeekOfDay2\WeekOfDay2\bin\Debug\WeekOfDay2.exe
+========== ビルド: 1 正常終了、0 失敗、0 更新不要、0 スキップ ==========
