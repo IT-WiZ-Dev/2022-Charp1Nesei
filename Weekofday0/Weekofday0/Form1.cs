@@ -89,30 +89,6 @@ namespace Weekofday0
 
         private void Youbidasu_Click(object sender, EventArgs e)
         {
-            
-        }
-
-        private int YoubiCheck(int year, int month, int day)
-        {
-            int num;
-            if (month == 1 || month == 2)
-            {
-                month += 12;
-                year -= 1;
-
-            }
-            num = (5 * year / 4 - year / 100 + year / 400 + (26 * month + 16) / 10 + day) % 7;
-
-            return num;
-        }
-
-        private void labelAnswer_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
             int month = (int)Tuki.Value;
             int day = (int)Hi.Value;
 
@@ -154,6 +130,24 @@ namespace Weekofday0
                         break;
                 }
             }
+        }
+
+        private int YoubiCheck(int year, int month, int day)
+        {
+            int num;
+            if (month == 1 || month == 2)
+            {
+                month += 12;
+                year -= 1;
+
+            }
+            num = (5 * year / 4 - year / 100 + year / 400 + (26 * month + 16) / 10 + day) % 7;
+
+            return num;
+        }
+
+        private void labelAnswer_Click(object sender, EventArgs e)
+        {
 
         }
     }
