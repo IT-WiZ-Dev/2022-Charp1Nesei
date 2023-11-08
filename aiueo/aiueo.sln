@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "aiueo", "aiueo\aiueo.csproj", "{8CDEEEFC-09EC-4E3B-A32E-4444FF0BBCD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CDEEEFC-09EC-4E3B-A32E-4444FF0BBCD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CDEEEFC-09EC-4E3B-A32E-4444FF0BBCD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CDEEEFC-09EC-4E3B-A32E-4444FF0BBCD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CDEEEFC-09EC-4E3B-A32E-4444FF0BBCD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAD60509-D7A6-456B-B206-AEC588D1EF23}
+	EndGlobalSection
+EndGlobal
